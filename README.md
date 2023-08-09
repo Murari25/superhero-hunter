@@ -1,6 +1,6 @@
 # superhero-hunter
 
-### Live Link : https://Murari25.github.io/superhero-hunter/index.html
+### Live Link : https://Murari25.github.io/superhero-hunter/
 
 ## Description
 
